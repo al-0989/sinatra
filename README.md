@@ -1,3 +1,5 @@
+Hello world
+
 # Sinatra
 
 Sinatra is a [DSL](http://en.wikipedia.org/wiki/Domain-specific_language) for
